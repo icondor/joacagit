@@ -1,1 +1,1 @@
-cucu bau
+echo "ana are mere"
